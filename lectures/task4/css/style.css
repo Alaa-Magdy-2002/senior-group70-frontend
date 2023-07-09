@@ -1,0 +1,13 @@
+body{
+    height: 5000px;
+}
+
+div{
+    height: 500px;
+    width: 50vw;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: beige;
+    color: blueviolet;
+}
