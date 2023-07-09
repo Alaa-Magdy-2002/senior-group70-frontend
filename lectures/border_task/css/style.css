@@ -1,0 +1,72 @@
+.border-explain{
+    border-color: brown;
+    border-style:  dashed groove solid  dotted;
+    border-width: 10px;
+
+}
+.html{
+    border: rgb(255, 0, 106) groove 5px;
+}
+.css{
+    border: brown double 5px;
+}
+.javascript{ border: rgba(255, 0, 255, 0.397) dashed 5px;
+}
+.img{
+    height: 500px;
+    background-image: url(../imges/space.jpg);
+    background-size: cover;
+} 
+.gradient{
+    height: 200px;
+    background: linear-gradient(rgba(255, 0, 0, 0.452),rgba(0, 0, 255, 0.219) );
+}
+.home{
+    color: brown;
+    border: rgba(224, 116, 14, 0.795) dashed 3px;
+}
+.contact{
+    color: rgb(43, 61, 226);
+    border: fuchsia double 3px;
+}
+.shape{
+    height: 50px;
+    width: 50px;
+    border: solid rgb(196, 71, 71);
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    background-color: rgb(196, 71, 71);
+}
+.image-link {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .image {
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+  }
+  
+
+fieldset{
+    border-radius: 15%;
+}
+legend{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+input[type=text]{
+    border: none;
+
+}
+select{
+    background: linear-gradient(rgba(255, 0, 0, 0.452),rgba(0, 0, 255, 0.219) );
+    border-radius: 5px;
+}
+

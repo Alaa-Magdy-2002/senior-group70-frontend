@@ -1,0 +1,60 @@
+.image-link {
+  display: block;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.image {
+  height: 100%;
+  width: auto;
+  margin: 0 auto;
+}
+
+.box {
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+}
+
+.box-one {
+  background-color: #d5a021;
+}
+
+.box-two {
+  background-color: #1c448e;
+}
+
+.box-three {
+  background-color: #c42021;
+}
+
+.box-four {
+  background-color: #98ce00;
+}
+
+.text {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.box-one-text {
+  color: #ede7d9;
+}
+
+.box-two-text {
+  color: #dbfe87;
+}
+
+.box-three-text {
+  color: #f3ffb9;
+}
+
+.box-four-text {
+  color: #fffffc;
+}
