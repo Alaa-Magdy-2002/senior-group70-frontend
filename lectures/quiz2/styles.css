@@ -1,0 +1,75 @@
+* {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 100vh;
+}
+
+.left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30vw;
+  background-color: #202024;
+}
+
+.data {
+  margin-top: 20vh;
+  width: 100%;
+  padding: 10px;
+}
+
+.slogan {
+  width: 100%;
+  text-align: center;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.text {
+  width: 100%;
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.right {
+  position: absolute;
+  top: 0;
+  left: 30vw;
+  width: 70vw;
+  background-color: #213740;
+}
+
+form {
+  margin-top: 30vh;
+  width: 100%;
+  padding: 50px;
+}
+
+.datainput {
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  height: 25px;
+  border-bottom: 1px solid #599cb7;
+  text-align: center;
+}
+
+.btn {
+  margin-left: 40vw;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid #599cb7;
+}
