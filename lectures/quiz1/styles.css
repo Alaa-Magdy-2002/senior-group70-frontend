@@ -1,0 +1,48 @@
+* {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  width: 350px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.card-text {
+  padding: 16px;
+}
+
+.title {
+  color: #000;
+  margin-bottom: 16px;
+}
+
+.text {
+  color: #595959;
+}
+
+.item {
+  border-top: 1px solid grey;
+  padding: 14px;
+}
+
+.item-text {
+  font-weight: 400;
+  color: #595959;
+}
+
+.link {
+  display: inline-block;
+  color: #6fbcff;
+  margin-right: 10px;
+}
